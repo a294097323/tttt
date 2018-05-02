@@ -1,7 +1,7 @@
 
 #  Cloud Radar1.2  
  # 安装前记得先删除或者格式化之前的服务器数据(不然可能无法使用) 因为本次是大更新 游戏地图从美国服务器搬运到你的服务器.
-  [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=839387596&site=qq&menu=yes) 
+  [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=6100715&site=qq&menu=yes) 
  
  什么年代了 你还在用虚拟机? 两台电脑? 局域网? JAVA? 用了加速器就失效的雷达?
  
@@ -11,13 +11,13 @@
  
  打开浏览器输入网址即可享用雷达!
  
- ![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.png)
+ ![image]()
  
  # 更新日志  
  # 2018/05/01/11：30
  #  凡事有问题bug的。格式化服务器。或者重装服务器系统。重新安装雷达
  
- [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=839387596&site=qq&menu=yes) 
+ [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=6100715&site=qq&menu=yes) 
  
  # 2018/04/27/18:37
  
@@ -46,10 +46,11 @@
  # ======================================
  # 如果你觉得本教程以及工具很有用  可以捐助(不强求) 一下吃不起饭饭的我
  
- -![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.jpg)
+ -![image](
+ )
  
  # ======================================
- Tutorial By:XiaohuaCN  
+ Tutorial  
  
  # 首先你要有一台 云服务器.
  1.服务器供应商随便你选择. 如腾讯云 阿里云 网易云 主机屋 谷歌云 等.
@@ -84,7 +85,7 @@
  
  - [手动自己一步一步输入代码教程](#第一步我们需要用软件连接你自己购买的服务器) 
  
- Tutorial By:XiaohuaCN  
+ Tutorial 
  
  # ======================================
  
@@ -203,7 +204,7 @@
  
  yum install git
  
- git clone https://github.com/XiaohuaCN/Cloud-Radar-Plus [更具服务器的带宽 来决定速度快慢]
+ git clone https://github.com/a294097323/tttt.git [更具服务器的带宽 来决定速度快慢]
  
  cd Cloud-Radar-Plus/
  
@@ -237,17 +238,17 @@
  
  
  # 教程结束!
- - [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=839387596&site=qq&menu=yes) 
+ - [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=6100715&site=qq&menu=yes) 
  
- By:XiaohuaCN  
+ QQ
  
- QQ:839387596
+ QQ:6100715
  
  # Peace!
  
  # 如果你觉得本教程以及工具很有用  可以捐助(不强求) 一下吃不起饭饭的我
  
- ![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.jpg)
+ ![image]()
  
  -# ======================================
  
@@ -255,7 +256,7 @@
  
  
  # 使用脚本搭建教程
- - [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=839387596&site=qq&menu=yes) 
+ - [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=6100715&site=qq&menu=yes) 
  
  - [视频教程](https://share.weiyun.com/5yntFxq) 如果视频下载缓慢请转存到自己微云.然后打开QQ(电脑手机都可以) 然后选择一个好友或自己小号点击 发送文件 - 选择微云文件 - 在聊天框内发送后, 在点击下载 速度就是满速了.
  
@@ -279,7 +280,7 @@
  
  会显示[Y/N] 按Y回车 等待执行完成~
  
- git clone https://github.com/XiaohuaCN/Cloud-Radar-Plus   [更具服务器的带宽 来决定速度快慢]
+ git clone https://github.com/a294097323/tttt.git   [更具服务器的带宽 来决定速度快慢]
  
  cd Cloud-Radar-Plus/
  
@@ -313,17 +314,17 @@
  
  
  # 教程结束!
- -- [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=839387596&site=qq&menu=yes) 
+ -- [QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=6100715&site=qq&menu=yes) 
  -
- -By:XiaohuaCN  
+ -QQ 
  -
- -QQ:839387596
+ -QQ:6100715
  -
  -# Peace!
  -
  -# 如果你觉得本教程以及工具很有用  可以捐助(不强求) 一下吃不起饭饭的我
  -
- -![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.jpg)
+ -![image]()
  -
  -# ======================================
  -
